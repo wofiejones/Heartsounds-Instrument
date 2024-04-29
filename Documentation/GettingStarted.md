@@ -3,13 +3,13 @@ Hello! Here are the necessary steps to start with with your new Heartsounds inst
 Working with Max Patch:
 
 Download audio samples from Media folder
-Download max patch from Media Folder
+Download max patch from Source Folder
 Use the numbers 1-7 on your computer to trigger the on/off for each sound. 
 
 Working with ZigSim app for Control of Effects:
 
 Download and install ZigSim from the Apple Store or the Google Play Store.
-Open the ZigSim patch from the Media folder
+Open the ZigSim patch from the Source folder
 
 
 Click on the button below the mxj net.local object. This will populate the umenu attached to its right outlet.
