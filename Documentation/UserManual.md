@@ -1,1 +1,2 @@
+There are various ways that you can interact with the Heartsounds instrument! One of the main gestures is through pushing the buttons to trigger the various sounds. There is also a force sensitive resistor that will allow you to control the volume of sound from whatever you are playing. Using the touchscreen surface of your phone by connecting to the Zig Sim app, you can trigger the amount of various effects to the sounds being generated. This instrument can be used in a variety of ways, including as a musical instrument, an installation piece, or as a meditation tool.
 
