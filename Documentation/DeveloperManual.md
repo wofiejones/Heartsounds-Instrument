@@ -4,7 +4,9 @@ Bill of Materials –
 | Materials     | Distributor   | # $ each      |  Total $      | 
 | ------------- | ------------- | ------------- | ------------- |
 | Teensy 4.0    | PJRC          | 1             | $23.80        |
-| Tactile Button switch (6mm) x 7 pack  | Content Cell  | Content Cell  | Content Cell  |
+| Tactile Button switch (6mm)  | Adafruit  | 7 | $2.50  |
+| Premium Male/Male Jumper Wires - 20 x 3"  | Adafruit         | 15             | $1.95      |
+| USB C to Micro B Cable - 3 ft 1 meter  | Adafruit         | 1             | $3.50       |
 
 
 Implementation Details:
