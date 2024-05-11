@@ -5,27 +5,32 @@ Required Materials:
 Required Software:
 - Max
 - Arduino IDE
-Fritzing (optional)
+- Fritzing (optional)
+
 Required Hardware:
-Teeensy 4.0 (or similar microcontroller)
-Pushbuttons (at least 7)
-Patch cables
-Breadboard
+- Teeensy 4.0 (or similar microcontroller)
+- Pushbuttons (at least 7)
+- Patch cables
+- Breadboard
+
 Working with Max Patch:
-Download audio samples 
-Download instrument max patch
-Load downloaded samples into “readfolder” message box
-Select Teensy MIDI in “midiin” device
+- Download audio samples 
+- Download instrument max patch
+- Load downloaded samples into “readfolder” message box
+- Select Teensy MIDI in “midiin” device
+
 Assembling Hardware:
-Patch top right side of button to ground
-Patch bottom left side to a pin in the Teensy. Each button should have its own pin.  
+- Patch top right side of button to ground
+- Patch bottom left side to a pin in the Teensy. Each button should have its own pin.
+
 Working with Arduino IDE:
-Assign USB type to MIDI in the Tools menu
-Load Teensy 4.0 as selected microcontroller
-Upload sketch
+- Assign USB type to MIDI in the Tools menu
+- Load Teensy 4.0 as selected microcontroller
+- Upload sketch
+
 Working with ZigSim app for Control of Effects:
-Download and install ZigSim from the Apple Store or the Google Play Store.
-Open the patch below.
+- Download and install ZigSim from the Apple Store or the Google Play Store.
+- Open the patch below.
 
  Motion_PreprocessingAndNetworkingWithZigSim.maxpat.zip
 
