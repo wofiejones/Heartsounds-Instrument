@@ -1,7 +1,5 @@
 Hello! Here are the necessary steps to start with with your new Heartsounds instrument!
 
-Required Materials: 
-
 Required Software:
 - Max
 - Arduino IDE
