@@ -6,7 +6,7 @@ Bill of Materials –
 | Content Cell  | Content Cell  |
 
 
-| First Header  | Second Header | Second Header | Second Header | 
+| Materials     | Distributor   | # $ each      |  Total $      | 
 | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
