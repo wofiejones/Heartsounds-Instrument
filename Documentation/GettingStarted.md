@@ -1,20 +1,40 @@
 Hello! Here are the necessary steps to start with with your new Heartsounds instrument!
 
+Required Materials: 
+
+Required Software:
+Max
+Arduino IDE
+Fritzing (optional)
+Required Hardware:
+Teeensy 4.0 (or similar microcontroller)
+Pushbuttons (at least 7)
+Patch cables
+Breadboard
 Working with Max Patch:
-
-Download audio samples from Media folder
-Download max patch from Source Folder
-Use the numbers 1-7 on your computer to trigger the on/off for each sound. 
-
+Download audio samples 
+Download instrument max patch
+Load downloaded samples into “readfolder” message box
+Select Teensy MIDI in “midiin” device
+Assembling Hardware:
+Patch top right side of button to ground
+Patch bottom left side to a pin in the Teensy. Each button should have its own pin.  
+Working with Arduino IDE:
+Assign USB type to MIDI in the Tools menu
+Load Teensy 4.0 as selected microcontroller
+Upload sketch
 Working with ZigSim app for Control of Effects:
-
 Download and install ZigSim from the Apple Store or the Google Play Store.
-Open the ZigSim patch from the Source folder
+Open the patch below.
+
+ Motion_PreprocessingAndNetworkingWithZigSim.maxpat.zip
 
 
 Click on the button below the mxj net.local object. This will populate the umenu attached to its right outlet.
 
+
 In that umenu, choose the en0 option. This will populate the umenu attached to the left outlet of mxj net.local.
+
 
 In this second umenu, choose the IP address that is formatted as four numbers separated by three dots, e.g., 192.168.0.1
 In ZigSim:
@@ -35,5 +55,5 @@ Beacon: Any
 In Max:
 Set the port attribute going into the udpreceive object to the same value you provided as Port Number in the ZigSim app.
 If you picked a Device UUID in the ZigSim app that isn’t ZigSim, update the values following /ZIGSIM/ in the route object.
-Using the various numbers 1-7 on your computer keyboard, you can trigger different healing frequencies from a variety of sounds, and manually control the amount of effects you want applied to the sounds playing. Now just use your creativity and imagination to the different music you can make with these possibilities!
+Using the various buttons on your breadboard, you can trigger different healing frequencies from a variety of sounds, and manually control the amount of effects you want applied to the sounds playing through the ZigSim app. Now just use your creativity and imagination to the different music you can make with these possibilities!
 
