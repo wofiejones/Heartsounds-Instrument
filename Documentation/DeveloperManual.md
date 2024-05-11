@@ -24,6 +24,7 @@ Future plans for continuing the development of your project.
 I would love to really work on the hardware for this device, because I would really love for it to be something people can use whenever that doesn’t have to be attached to a computer. Also working with different sensors that are more surface touching with your hand, and the actual hardware to look nice enough to sell to all types of people, being used in a variety of different ways, including for meditation, yoga, stress relief, and music making. In order for this to be easily accessible to a variety of people, I would like to make this as easily intuitive and with the least amount of setup as possible as my main goal. 
 
 Diagram.fzz or Diagram.pdf
+<img width="996" alt="Screen Shot 2024-05-10 at 8 36 07 PM" src="https://github.com/wofiejones/Proposal/assets/158484561/16372668-00c6-4a22-9801-d247b6c1b0f4">
 
 
 
