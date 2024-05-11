@@ -1,21 +1,12 @@
 Bill of Materials – 
 
-| Materials | Distributor | # $ each | Total $ |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 
 | Materials     | Distributor   | # $ each      |  Total $      | 
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Teensy 4.0    | PJRC          | 1             | $23.80        |
+| Tactile Button switch (6mm) x 7 pack  | Content Cell  | Content Cell  | Content Cell  |
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 Implementation Details:
 
 
