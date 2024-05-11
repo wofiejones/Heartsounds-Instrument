@@ -3,8 +3,8 @@ Hello! Here are the necessary steps to start with with your new Heartsounds inst
 Required Materials: 
 
 Required Software:
-Max
-Arduino IDE
+- Max
+- Arduino IDE
 Fritzing (optional)
 Required Hardware:
 Teeensy 4.0 (or similar microcontroller)
