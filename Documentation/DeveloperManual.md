@@ -1,7 +1,11 @@
 Bill of Materials – 
-I---
-I
-I---I
+
+| Materials | Distributor | # $ each | Total $ |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 Implementation Details:
 
 
